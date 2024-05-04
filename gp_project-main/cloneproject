@@ -1,0 +1,4 @@
+git clone https://github.com/mohamedashrafabdelrashed/recycling.git
+ git add .
+ git commit -m "Your commit message"
+ git push
